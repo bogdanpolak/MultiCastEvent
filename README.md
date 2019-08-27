@@ -4,6 +4,6 @@ This is a project using Delphi generic to implement an event multicaster.
 
 The source code follow the ideas from Allen Bauer mostly in the following articles with little tweaks:
 
-1. [Multicast events using generics](https://community.embarcadero.com/blogs/entry/multicast-events-using-generics-38865)
-2. [Multicast Events - the cleanup](https://community.embarcadero.com/blogs/entry/multicast-events--the-cleanup-38866)
-3. [Multicast Events - the finale](https://community.embarcadero.com/blogs/entry/multicast-events--the-finale-38867)
+1. [Multicast events using generics](./doc/allen-01-multicast-events-using-generics.md)
+1. [Multicast Events - the cleanup](./doc/allen-02-multicast-events-cleanup.md)
+1. [Multicast Events - the finale](./doc/allen-03-multicast-events-finale.md)
